@@ -43,4 +43,5 @@
      "ghcr.libcuda.so": "https://ghcr.io",
    };
    ```
-
+### 发布日期
+2025-02-20
